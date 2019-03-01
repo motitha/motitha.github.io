@@ -55,5 +55,117 @@ img.foto{
     height:1050PX;
     background-color:#0EA7E0; 
 }
+.azulito{
+    margin-top:-20px; 
+    width: 35px;
+    height: 6px;
+    background-color:#0EA7E0; 
+    border: 0px;
+    border-radius:10px;
+}
+div.tam-texto{
+    font-size: 15px;
+    width: 200px;
+    height: 150px;
+    text-align: justify; 
+}
+p{
+    padding: 12px;
+}
 
+.idiomas{
+    width: 200px;
+    height: 30px;
+    text-align: left;
+}
+.lista{
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+}
+.ing,
+    .cir{
+        width: 10PX;
+        height:10PX;  
+        border-radius: 15%;
+        background-color: #0EA7E0;
+        margin-top: -57px;
+        margin-left: 75px;
+        border: none;
+    }
+.ing{
+    margin-top: -27px;
+}
+.ing2,
+    .cir-2{
+        width: 10PX;
+        height:10PX;  
+        border-radius: 15%;
+        background-color: #0EA7E0;
+        margin-top: -57px;
+        margin-left: 95px; 
+        border: none;
+        }
+.ing2{
+    margin-top: -27px;  
+}   
+.ing3,
+.cir-3{
+    width: 10PX;
+    height:10PX;  
+    border-radius: 15%;
+    background-color: #0EA7E0;
+    margin-top: -57px;
+    margin-left: 115px;
+    border: none;
+    }
+.ing3{
+    margin-top: -28px;
+} 
+.ing4,   
+.cir-4{
+    width: 10PX;
+    height:10PX;  
+    border-radius: 15%;
+    background-color: #0EA7E0;
+    margin-top: -57px;
+    margin-left: 133px;
+    border: none;
+    }
+.ing4{
+    margin-top: -28px;
+     background-color: #929292;
+} 
+.ing5,
+.cir-5{
+    width: 10PX;
+    height:10PX;  
+    border-radius: 15%;
+    background-color: #0EA7E0;
+    margin-top: -57px;
+    margin-left: 151px;
+    border: none;
+    }
+.ing5{
+    margin-top: -28px;
+     background-color: #929292;
+} 
+
+.user{
+    margin-top: 20px;
+    width: 48px;
+    height:48px;
+    margin-left: 0px
+}
+.jena{
+    width: 150px;
+    height: 20px;
+    margin-top: 0px;
+    margin-left: 120px
+    text-align:left;
+    font-size: 18px;
+}
+.color{
+    background-color: red;
+}
 
