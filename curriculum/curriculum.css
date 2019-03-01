@@ -1,0 +1,59 @@
+curriculum.css
+div{
+    display: inline-block;
+    border: 1px black dashed;
+    width: 100px;
+    height: 100px;
+}
+
+#div1{
+    margin-left: 18%;
+    font-weight: bolder;
+}
+
+div.rojo,
+.rojo{
+    background-color: red;
+    color: inherit;
+    border-color: yellow;
+    border-style: ridge;
+}
+
+.rojo:first{
+    border-top: chartreuse;
+}
+.margen{
+    padding:30px;
+    font-size: 2em;
+    text-align: center;
+    width: 800px;
+    height: 1050px;
+    border: 5px solid #797979;
+    background-color:#ffffff;
+}
+.cuadro1{
+    width: 200PX;
+    height:150PX;
+    background-color:#0EA7E0; 
+}
+.cuadro2{
+    width: 200PX;
+    height:900PX;
+    margin-top:-85px; 
+    background-color:#EBEBEB; 
+}
+img.foto{
+    width: 150PX;
+    height:150PX; 
+    margin-top:-75px; 
+    border-radius: 50%;
+     
+  
+}
+.datos{
+    width: 600PX;
+    height:1050PX;
+    background-color:#0EA7E0; 
+}
+
+
