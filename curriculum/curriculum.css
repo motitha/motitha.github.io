@@ -1,3 +1,4 @@
+
 curriculum.css
 div{
     display: inline-block;
@@ -34,12 +35,13 @@ div.rojo,
 .cuadro1{
     width: 200PX;
     height:150PX;
+    border-radius: 15%;
     background-color:#0EA7E0; 
 }
 .cuadro2{
     width: 200PX;
-    height:900PX;
-    margin-top:-85px; 
+    height:920PX;
+    margin-top:-100px; 
     background-color:#EBEBEB; 
 }
 img.foto{
@@ -53,7 +55,7 @@ img.foto{
 .datos{
     width: 600PX;
     height:1050PX;
-    background-color:#0EA7E0; 
+    background-color:#ffffff; 
 }
 .azulito{
     margin-top:-20px; 
@@ -157,15 +159,61 @@ p{
     height:48px;
     margin-left: 0px
 }
-.jena{
-    width: 150px;
-    height: 20px;
-    margin-top: 0px;
-    margin-left: 120px
-    text-align:left;
-    font-size: 18px;
+.mani
+    .citla,
+        .jena{
+            width: 150px;
+            height: 20px;
+            margin-top: 15px;
+            margin-left: 120px
+            text-align:left;
+            font-size: 18px;
+        }
+    .citla{
+        margin-left: -210px 
+    }
+.mani{
+    margin-left: -310px 
 }
 .color{
     background-color: red;
 }
+.nom{
+    width: 600PX;
+    height:150PX;
+    margin-top: -43px;
+}
+.divicion5,
+    .divicion4,
+        .divicion3,
+            .divicion2,
+                .divicion{
+                    margin-top:-20px; 
+                    width: 90px;
+                    height: 8px;
+                    background-color:#0EA7E0; 
+                    border: 0px;
+                    border-radius:15%;
+                    margin-left: 78px
+                }
 
+            .divicion2{
+            margin-left:180px; 
+            margin-top: -9px;
+            background-color:#65B3CD;
+            }
+        .divicion3{
+        margin-left:280px; 
+        margin-top: -8px;
+        background-color:#BBDBEA;
+        }
+    .divicion4{
+    margin-left:380px; 
+    margin-top: -8px;
+    background-color:#6ABCA0;
+    }
+.divicion5{
+    margin-left:480px; 
+    margin-top: -8px;
+    background-color:#20252F;
+    }
