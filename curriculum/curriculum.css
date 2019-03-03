@@ -217,9 +217,19 @@ p{
     margin-top: -8px;
     background-color:#20252F;
     }
-.ubi{
-    margin-top: 20px;
-    width: 48px;
-    height:48px;
-    margin-left: 0px
+.ubi3,
+    .ubi2,
+        .ubi{
+            margin-top: 20px;
+            width: 48px;
+            height:48px;
+            margin-left: 50px
+        }
+    .ubi2{
+        margin-top: -49px;
+        margin-left: 200px  
+    }
+.ubi3{
+    margin-top: -49px;
+    margin-left: 400px
 }
