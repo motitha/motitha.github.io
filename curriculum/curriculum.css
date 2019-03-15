@@ -223,7 +223,8 @@ p{
             margin-top: 20px;
             width: 48px;
             height:48px;
-            margin-left: 50px
+            margin-left: 50px;
+            font-size: 18px;
         }
     .ubi2{
         margin-top: -49px;
@@ -232,4 +233,9 @@ p{
 .ubi3{
     margin-top: -49px;
     margin-left: 400px
+}
+.datos{
+    width: 200PX;
+    height:100PX;
+    margin-top: -20px;
 }
